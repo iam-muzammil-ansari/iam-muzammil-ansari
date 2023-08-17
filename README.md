@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammil</h1>
-<h3 align="center">🚀 Passionate backend developer | Problem Solver | Continuous Learner | Seeking Real-World Challenges 🚀
+<h3 align="center">🚀 Passionate backend developer | Problem Solver | Continuous Learner 🚀
 <h3 align="center">From India 🇮🇳 </h3>
 
 🔍 Welcome to my profile! I'm Muzammil, and I thrive on tackling complex challenges that push my boundaries and drive my personal growth. With a deep-rooted learning attitude, I'm constantly on the lookout for opportunities that allow me to apply my skills to real-world problems.
