@@ -5,7 +5,7 @@
 🔍 Welcome to my profile! I'm Muzammil, and I thrive on tackling complex challenges that push my boundaries and drive my personal growth. With a deep-rooted learning attitude, I'm constantly on the lookout for opportunities that allow me to apply my skills to real-world problems.
 
 💡 Why Me?
-I'm not just another candidate – I'm a candidate driven by curiosity and determination. My love for problem-solving is the driving force that has led me to master skills in 𝐉𝐀𝐕𝐀, 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 and Algorithms, 𝐒𝐐𝐋, and other CS Fundamentals. Having successfully conquered over 300+ challenging 𝐉𝐚𝐯𝐚-𝐝𝐬𝐚 coding questions on 𝐇𝐚𝐜𝐤𝐞𝐫𝐑𝐚𝐧𝐤 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦, I'm ready to bring this expertise to the next level.
+I'm not just another candidate – I'm a candidate driven by curiosity and determination. My love for problem-solving is the driving force that has led me to master skills in 𝐉𝐀𝐕𝐀, 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 and Algorithms, SpringBoot, PHP, Codeigniter, 𝐒𝐐𝐋, AJAX and other CS Fundamentals. Having successfully conquered over 300+ challenging 𝐉𝐚𝐯𝐚-𝐝𝐬𝐚 coding questions on 𝐇𝐚𝐜𝐤𝐞𝐫𝐑𝐚𝐧𝐤 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦, I'm ready to bring this expertise to the next level.
 
 🌟 What Drives Me?
 I'm fueled by a profound belief that every obstacle is an opportunity to learn. The more intricate the problem, the more motivated I am to solve it. My journey isn't just about solutions; it's about the experience, the learning, and the growth that come with it.
