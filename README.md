@@ -19,9 +19,11 @@ I'm actively seeking roles that align with my aspirations – roles that present
 
 <p align="left"> <a href="https://twitter.com/ayaan__ansari" target="blank"><img src="https://img.shields.io/twitter/follow/ayaan__ansari?logo=twitter&style=for-the-badge" alt="ayaan__ansari" /></a> </p>
 
-- 🔭 I’m currently working on [Recipe management System](https://github.com/iam-muzammil-ansari/Recipe-management-system-API.git)
+- 🔭 I’m currently working on php/codeigniter project  [Blog Management System](https://github.com/iam-muzammil-ansari/BlogManagementSystem.git)
 
-- 🌱 I’m currently learning **java, html/css, php**
+- 🔭 my springboot project [Recipe management System](https://github.com/iam-muzammil-ansari/Recipe-management-system-API.git)
+
+- 🌱 I’m currently learning **java, html/css, php, codeigniter, AJAX**
 
 - 🤝 I’m looking for help with [Amazon Clone Website](https://github.com/iam-muzammil-ansari/Amazon-Clone-Website.git)
 
